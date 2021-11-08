@@ -6,7 +6,7 @@
   "author": "RubenOAlvarado <rubenosmaralvarado@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.14.1",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.0.0"
   }
 }
